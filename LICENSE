@@ -1,0 +1,50 @@
+愤怒的图标 (Angry Icons)
+版权所有 (c) 2026  保留所有权利
+All rights reserved.
+
+这是一份**自定义许可**，不是开源促进会（OSI）认可的开源许可证。
+源码公开的目的是供学习与个人娱乐，商业用途一律不授权。
+
+--------------------------------------------------------------------------------
+
+【允许 / PERMITTED】
+
+1. 阅读、克隆、下载本项目源码。
+2. 个人学习、研究、个人娱乐使用本软件。
+3. 为个人非商业目的修改源码，并在自己的设备上运行修改后的版本。
+4. 在 GitHub 上 Fork 本仓库用于个人学习。
+
+【禁止 / PROHIBITED】
+
+1. 任何形式的商业使用。包括但不限于：销售本软件或其修改版；将本软件或其代码
+   用于公司内部业务系统、商业演示、商业培训；捆绑进商业产品或付费服务；
+   通过本软件引流变现。
+2. 未经作者书面许可，将本软件或其修改版重新打包、分发、上架到任何平台或
+   应用商店。
+3. 移除、隐藏或篡改本版权声明与许可条款。
+4. 将本项目用于任何违法违规用途。
+
+【免责 / DISCLAIMER】
+
+本软件按「现状」提供，不附带任何明示或暗示的担保，包括但不限于适销性、
+特定用途适用性和非侵权担保。因使用本软件造成的任何直接或间接损失
+（包括数据丢失、设备异常、工作中断），作者不承担任何责任。
+
+本软件运行时只在本机内存读取桌面外观用于绘制，不会修改、移动或删除
+用户的任何文件。退出方式为按 ESC，退出后桌面恢复原样。
+
+--------------------------------------------------------------------------------
+
+Copyright (c) 2026. All rights reserved.
+
+This is a CUSTOM license, not an OSI-approved open source license.
+The source is published for study and personal entertainment only.
+Commercial use is NOT granted.
+
+PERMITTED: read, clone, study, personal non-commercial use, personal
+modification and local run, forking on GitHub for personal study.
+
+PROHIBITED: any commercial use; redistribution or repackaging without
+written permission; removing this notice; any illegal use.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.

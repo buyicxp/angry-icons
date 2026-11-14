@@ -1,0 +1,24 @@
+# 编译产物
+*.exe
+*.pdb
+*.ilk
+*.obj
+
+# 音频素材（有版权，不入库）
+sfx/
+*.wav
+*.mp3
+
+# 运行与调试时产生的截图
+*.png
+!app2.png
+
+# 备份文件
+*.bak
+*.bak.*
+
+# 本地环境
+.vs/
+packages/
+obj/
+bin/
